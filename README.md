@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1) Introduction
 ========
 NukeViet is the first opensource CMS in Vietnam. The lastest version - NukeViet 3 coding ground up support lastest web technologies, include xHTML, CSS 3, XTemplate, jQuery, Ajax... enables you to build websites and online applications rapidly.
@@ -30,3 +31,9 @@ Website: http://vinades.vn | http://nukeviet.vn | http://webnhanh.vn
     Hai Phong Branch:
         539 Truong Chinh st, Kien An dist, Hai Phong city, Vietnam.
         Phone: +84-31-3678731, Email: haiphong (at) vinades.vn 
+=======
+recommend
+=========
+
+Luận án tốt nghiệp
+>>>>>>> master
